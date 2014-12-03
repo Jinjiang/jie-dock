@@ -1,0 +1,8 @@
+{
+  "name": "jie-dock",
+  "version": "0.0.1",
+  "main": "jie-dock.html",
+  "dependencies": {
+    "polymer": "~0.5.0"
+  }
+}
